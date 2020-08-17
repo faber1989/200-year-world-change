@@ -1,2 +1,2 @@
 # 200-year-world-change
-This project analyse how the world evolved over 200 years, used key economic/social variables such as GDP, Income Per Person, Gini Coefficient, Population, Child Mortality and Life expectancy.
+This project analyse how the world evolved over 200 years, used key economic/social variables such as _GDP, Income Per Person, Gini Coefficient, Population, Child Mortality and Life Expectancy_. The data used for this project is available on Gapminder [website](https://www.gapminder.org/data/). The goal is to evaluate the magnitude of the change the world and specific regions. experienced over this long period of time using the mentioned variables.
